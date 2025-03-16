@@ -9,7 +9,8 @@ This is a **Next.js** application where users can create, view, and interact wit
 
 ### Tech Stack  
 - **Frontend:** Next.js, React  
-- **Image Storage:** Cloudinary  
+- **Image Storage:** Cloudinary
+- **Database:** SQLite 
 
 ### Setup & Run 🚀  
 1. Clone the repo:  
